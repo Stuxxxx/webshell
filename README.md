@@ -39,12 +39,6 @@ www-data
 
 ---
 
-## 🖼️ Aperçu visuel
-
-![WebShell screenshot](https://via.placeholder.com/600x300?text=WebShell+interface)
-
----
-
 ## 📂 Fichiers
 
 - `webshell.php` – Interface WebShell
